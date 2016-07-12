@@ -1,20 +1,6 @@
 <?php
-/**
-* CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
-* Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
-*
-* Licensed under The MIT License
-* For full copyright and license information, please see the LICENSE.txt
-* Redistributions of files must retain the above copyright notice.
-*
-* @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
-* @link          http://cakephp.org CakePHP(tm) Project
-* @package       app.View.Layouts
-* @since         CakePHP(tm) v 0.10.0.1076
-* @license       http://www.opensource.org/licenses/mit-license.php MIT License
-*/
 
-$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$cakeDescription = __d('cake_dev', 'Compu_Seven: Creatividad Sin Limites');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
@@ -94,8 +80,8 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-paw"></i>
                     </div>
                 	<div class="service-list-col2">
-                        <h3>branding &amp; identity</h3>
-                        <p>Proin iaculis purus digni consequat sem digni ssim. Donec entum digni ssim.</p>
+                        <h3>Sistemas de Informacion</h3>
+                        <p>Te ofrecemos sistemas de informaci&oacute;n para tu empresa o negocio adaptados a tus necesidades.</p>
                     </div>
                 </div>
                 <div class="service-list">
@@ -103,8 +89,8 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-gear"></i>
                     </div>
                 	<div class="service-list-col2">
-                        <h3>web development</h3>
-                        <p>Proin iaculis purus consequat sem digni ssim. Digni ssim porttitora .</p>
+                        <h3>Web Sites</h3>
+                        <p>Te ofrecemos la posibilidad de implementar una pagina web adaptada a tus necesidades.</p>
                     </div>
                 </div>
                 <div class="service-list">
@@ -112,8 +98,15 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-apple"></i>
                     </div>
                 	<div class="service-list-col2">
-                        <h3>mobile design</h3>
-                        <p>Proin iaculis purus consequat digni sem digni ssim. Purus donec porttitora entum.</p>
+                        <h3>Aplicativos Moviles</h3>
+                        <p>Te ofrecemos aplicaciones para tu Iphone u Android para gestionar tus tareas.</p>
+                    </div>
+                </div>
+								<div class="service-list">
+
+                	<div class="service-list-col2">
+                        <h3>Aplicativos de Escritorio</h3>
+                        <p>Te ofrecemos aplicaciones gestionables localmente desde tu ordenador personal para solventar tus necesidades.</p>
                     </div>
                 </div>
                 <div class="service-list">
@@ -121,8 +114,8 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-medkit"></i>
                     </div>
                 	<div class="service-list-col2">
-                        <h3>24/7 Support</h3>
-                        <p>Proin iaculis purus consequat sem digni ssim. Sem porttitora entum.</p>
+                        <h3>24/7 Soporte</h3>
+                        <p>Soporte Tecnico las 24 horas los 7 dias de la semana.</p>
                     </div>
                 </div>
             </div>
