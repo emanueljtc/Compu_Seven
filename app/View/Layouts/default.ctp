@@ -56,11 +56,11 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
     	<figure class="logo animated fadeInDown delay-07s">
         	<a href="#"><img src="img/logo.png" alt=""></a>
         </figure>
-        <h1 class="animated fadeInDown delay-07s">Welcome To Knight Studios</h1>
+        <h1 class="animated fadeInDown delay-07s">Bienvenido a Compu_Seven</h1>
         <ul class="we-create animated fadeInUp delay-1s">
-        	<li>We are a digital agency that loves crafting beautiful websites.</li>
+        	<li>Somos una Startups enfocados en una Creatividad Sin Limites.</li>
         </ul>
-            <a class="link animated fadeInUp delay-1s" href="#">Get Started</a>
+            <a class="link animated fadeInUp delay-1s" href="#">Comenzar</a>
     </div>
 </div>
 </header><!--header-end-->
@@ -69,13 +69,13 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 <nav class="main-nav-outer" id="test"><!--main-nav-start-->
 	<div class="container">
         <ul class="main-nav">
-        	<li><a href="#header">Home</a></li>
-            <li><a href="#service">Services</a></li>
-            <li><a href="#Portfolio">Portfolio</a></li>
+        	<li><a href="#header">Inicio</a></li>
+            <li><a href="#service">Servicios</a></li>
+            <li><a href="#Portfolio">Portafolio</a></li>
             <li class="small-logo"><a href="#header"><img src="img/small-logo.png" alt=""></a></li>
-            <li><a href="#client">Clients</a></li>
-            <li><a href="#team">Team</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#client">Clientes</a></li>
+            <li><a href="#team">Equipo</a></li>
+            <li><a href="#contact">Contacto</a></li>
         </ul>
         <a class="res-nav_click" href="#"><i class="fa-bars"></i></a>
     </div>
@@ -85,8 +85,8 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 
 <section class="main-section" id="service"><!--main-section-start-->
 	<div class="container">
-    	<h2>Services</h2>
-    	<h6>We offer exceptional service with complimentary hugs.</h6>
+    	<h2>Nuestros Servicios</h2>
+    	<h6>Nosotros te ofrecemos servicios adaptados a tus necesidades.</h6>
         <div class="row">
         	<div class="col-lg-4 col-sm-6 wow fadeInLeft delay-05s">
             	<div class="service-list">
