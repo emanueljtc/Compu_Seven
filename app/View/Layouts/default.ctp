@@ -183,7 +183,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
         <ul class="Portfolio-nav wow fadeIn delay-02s">
         	<li><a href="#" data-filter="*" class="current" >Todos</a></li>
             <li><a href="#" data-filter=".branding" >Apps Escritorio</a></li>
-            <li><a href="#" data-filter=".webdesign" >Paginas Webs</a></li>
+            <li><a href="#" data-filter=".webdesign" >Ambiente Web</a></li>
             <li><a href="#" data-filter=".printdesign" >Apps Movil</a></li>
             <!--<li><a href="#" data-filter=".photography" >Photography</a></li>-->
         </ul>
@@ -191,25 +191,25 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 
 	</div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
-            	<div class=" Portfolio-box printdesign">
+            	<div class=" Portfolio-box webdesign">
                 	<a href="#"><img src="img/Portfolio-pic1.jpg" alt=""></a>
-                	<h3>Foto Album</h3>
-                    <p>Print Design</p>
+                	<h3>Inversiones Emmanuel</h3>
+                    <p>Sistema de Control de Pagos</p>
                 </div>
                 <div class="Portfolio-box webdesign">
                 	<a href="#"><img src="img/Portfolio-pic2.jpg" alt=""></a>
-                	<h3>Luca Theme</h3>
-                    <p>Web Design</p>
+                	<h3>Alcaldia del Municipio Roscio</h3>
+                    <p>Sistema de Gestion y Control de Documentos</p>
                 </div>
-                <div class=" Portfolio-box branding">
+                <div class=" Portfolio-box webdesign">
                 	<a href="#"><img src="img/Portfolio-pic3.jpg" alt=""></a>
-                	<h3>Uni Sans</h3>
-                    <p>Branding</p>
+                	<h3>Restaurante "El Rincón del Sabor"</h3>
+                    <p>Pagina Web</p>
                 </div>
-                <div class=" Portfolio-box photography" >
+                <div class=" Portfolio-box branding" >
                 	<a href="#"><img src="img/Portfolio-pic4.jpg" alt=""></a>
-                	<h3>Vinyl Record</h3>
-                    <p>Photography</p>
+                	<h3>Libreria "El Palmar"</h3>
+                    <p>Sistema de Facturación</p>
                 </div>
                 <div class=" Portfolio-box branding">
                 	<a href="#"><img src="img/Portfolio-pic5.jpg" alt=""></a>
