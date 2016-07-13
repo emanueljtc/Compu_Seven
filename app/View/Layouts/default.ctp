@@ -34,19 +34,33 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 
 
 	?>
+	<style>
+	.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+	}
+		.principal{
+			max-width: 285%;
+			height: auto;
+		}
+	</style>
 </head>
 <body>
 <div style="overflow:hidden;">
 <header class="header" id="header"><!--header-start-->
 	<div class="container">
+		<div class="center">
     	<figure class="logo animated fadeInDown delay-07s">
-        	<a href="#"><img src="img/logo.png" alt=""></a>
+		</div>
+        	<a href="#"><img src="img/logo.png" alt="" class="principal"></a>
         </figure>
         <h1 class="animated fadeInDown delay-07s">Bienvenido a Compu_Seven</h1>
         <ul class="we-create animated fadeInUp delay-1s">
         	<li>Somos una Startups enfocados en una Creatividad Sin Limites.</li>
         </ul>
-            <a class="link animated fadeInUp delay-1s" href="#">Comenzar</a>
     </div>
 </div>
 </header><!--header-end-->
@@ -363,11 +377,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
         <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
         <span class="copyright">Copyright © 2016 | <a href="#">Compu_Seven Site Web</a> echo por Compu_Seven</span>
     </div>
-    <!--
-        All links in the footer should remain intact.
-        Licenseing information is available at: http://bootstraptaste.com/license/
-        You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=Knight
-    -->
+
 </footer>
 
 
