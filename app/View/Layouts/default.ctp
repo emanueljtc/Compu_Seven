@@ -63,10 +63,10 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
         </ul>
     </div>
 </div>
-</header><!--header-end-->
+</header>
 
 
-<nav class="main-nav-outer" id="test"><!--main-nav-start-->
+<nav class="main-nav-outer" id="test">
 	<div class="container">
         <ul class="main-nav">
         	<li><a href="#header">Inicio</a></li>
@@ -79,11 +79,11 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
         </ul>
         <a class="res-nav_click" href="#"><i class="fa-bars"></i></a>
     </div>
-</nav><!--main-nav-end-->
+</nav>
 
 
 
-<section class="main-section" id="service"><!--main-section-start-->
+<section class="main-section" id="service">
 	<div class="container">
     	<h2>Nuestros Servicios</h2>
     	<h6>Nosotros te ofrecemos servicios adaptados a tus necesidades.</h6>
