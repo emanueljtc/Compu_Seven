@@ -136,15 +136,16 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
             	<img  src="img/iphone.png" alt="">
             </figure>
         	<div class="col-lg-7 col-sm-8 featured-work">
-            	<h2>featured work</h2>
-            	<P class="padding-b">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.</P>
+            	<h2>Trabajo Destacado</h2>
+            	<P class="padding-b">En Compu_Seven nuestro compromiso primordial es ofrecerle a nuestra clientela un trabajo optimo que logre cumplir aun m&aacute;s all&aacute; de sus expectativas, pudiendo as&iacute; destacar en nuestros trabajos.</P>
             	<div class="featured-box">
                 	<div class="featured-box-col1 wow fadeInRight delay-02s">
                     	<i class="fa-magic"></i>
                     </div>
                 	<div class="featured-box-col2 wow fadeInRight delay-02s">
-                        <h3>magic of theme development</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <h3>El Cliente Involucrado</h3>
+                        <p>Ofrecemos la posibilidad al cliente de involucrase en el avance progresivo del desarrollo de su sistema de informacion o pagina web, mediante el seguimiento
+												por medio del acceso a un subdomio personalizado para cada uno de nuestros clientes</p>
                     </div>
                 </div>
                 <div class="featured-box">
@@ -152,8 +153,8 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-gift"></i>
                     </div>
                 	<div class="featured-box-col2 wow fadeInRight delay-04s">
-                        <h3>neatly packaged</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <h3>Facil instalaci&oacute;n</h3>
+                        <p>Las Aplicaciones para ambiente movil o de escritorio que desarrollamos te permiten una facil y amigable instalacion en cada una de nuestras apps desarrolladas.</p>
                     </div>
                 </div>
                 <div class="featured-box">
@@ -161,11 +162,12 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                     	<i class="fa-dashboard"></i>
                     </div>
                 	<div class="featured-box-col2 wow fadeInRight delay-06s">
-                        <h3>SEO optimized</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <h3>Diseño Amigable</h3>
+                        <p>La Interfaz de Usuario de cada uno de nuestros trabajos, se enfoca en ser desarrollada con la utilizaci&oacute;n de las ultimas tendencias de diseño que permitan a cada uno de los usuarios de una curva de aprendizaje muy facil para el
+												correcto uso de cada uno de nuestros trabajos realizados. </p>
                     </div>
                 </div>
-                <a class="Learn-More" href="#">Learn More</a>
+
             </div>
         </div>
 	</div>
@@ -175,15 +177,15 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 
 <section class="main-section paddind" id="Portfolio"><!--main-section-start-->
 	<div class="container">
-    	<h2>Portfolio</h2>
-    	<h6>Fresh portfolio of designs that will keep you wanting more.</h6>
+    	<h2>Portafolio</h2>
+    	<h6>Portafolio de nuestros trabajos m&aacute;s recientes.</h6>
       <div class="portfolioFilter">
         <ul class="Portfolio-nav wow fadeIn delay-02s">
-        	<li><a href="#" data-filter="*" class="current" >All</a></li>
-            <li><a href="#" data-filter=".branding" >Branding</a></li>
-            <li><a href="#" data-filter=".webdesign" >Web design</a></li>
-            <li><a href="#" data-filter=".printdesign" >Print design</a></li>
-            <li><a href="#" data-filter=".photography" >Photography</a></li>
+        	<li><a href="#" data-filter="*" class="current" >Todos</a></li>
+            <li><a href="#" data-filter=".branding" >Apps Escritorio</a></li>
+            <li><a href="#" data-filter=".webdesign" >Paginas Webs</a></li>
+            <li><a href="#" data-filter=".printdesign" >Apps Movil</a></li>
+            <!--<li><a href="#" data-filter=".photography" >Photography</a></li>-->
         </ul>
        </div>
 
